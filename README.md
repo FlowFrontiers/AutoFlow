@@ -1,6 +1,6 @@
 # AutoFlow: An Autoencoder-based Approach for IP Flow Record Compression
 
-This repository contains all the digital artifacts associated with the paper **"AutoFlow: An Autoencoder-based Approach for IP Flow Record Compression with Minimal Impact on Traffic Classification."** The repository is structured to provide an overview of the experiments, code, and results discussed in the paper.
+This repository contains all the digital artifacts associated with the paper **"AutoFlow: An Autoencoder-based Approach for IP Flow Record Compression with Minimal Impact on Traffic Classification."**
 
 ## Repository Structure
 
